@@ -1,1 +1,1 @@
-# javascript_basic
+phần làm bài em làm trong file 'js-operator.js' nha thầy!
